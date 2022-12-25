@@ -1,4 +1,4 @@
-// index.js
+// task1.js
 const argv = require("yargs").argv;
 const { sum, minus, div, multiply } = require("./function");
 

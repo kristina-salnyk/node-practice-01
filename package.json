@@ -2,11 +2,11 @@
   "name": "blended-01",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "task2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node task2.js",
+    "dev": "nodemon taks2.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "chalk": "^4.0.0",
     "yargs": "^17.6.2"
   }
 }
