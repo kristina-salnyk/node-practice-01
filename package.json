@@ -1,5 +1,5 @@
 {
-  "name": "blended-01",
+  "name": "node-practice-01",
   "version": "1.0.0",
   "description": "",
   "main": "task3.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kristina-salnyk/blended-01.git"
+    "url": "git+https://github.com/kristina-salnyk/node-practice-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kristina-salnyk/blended-01/issues"
+    "url": "https://github.com/kristina-salnyk/node-practice-01/issues"
   },
-  "homepage": "https://github.com/kristina-salnyk/blended-01#readme",
+  "homepage": "https://github.com/kristina-salnyk/node-practice-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
